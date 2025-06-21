@@ -1,1 +1,1 @@
-All Project with Phase Wise Documentation.
+Entire Project with Phase Wise Documentation.
