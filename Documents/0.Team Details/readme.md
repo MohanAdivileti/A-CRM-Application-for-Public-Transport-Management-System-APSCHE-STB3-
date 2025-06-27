@@ -1,1 +1,1 @@
-Team details of project ae uploaded.
+Team details of project are uploaded.
